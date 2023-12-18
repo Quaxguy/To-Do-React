@@ -68,3 +68,27 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+# ToDo Application
+
+A simple ToDo application built with React and styled with Material-UI.
+
+## Features
+
+1. **Add Tasks:** Users can enter new tasks into the input field.
+
+2. **Task List:** Displays a list of tasks added by the user.
+
+3. **Delete Task:** Each task in the list has a "Delete" button to remove it.
+
+4. **Mark as Completed (Bonus):** Optionally, users can mark tasks as completed.
+
+5. **Local Storage (Bonus):** Tasks are persisted in local storage for data persistence.
+
+## Installation
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/Quaxguy/todo-app.git
